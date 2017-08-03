@@ -1,0 +1,22 @@
+{
+  "name": "c5tojson",
+  "version": "1.0.0",
+  "description": "Parser for -c5 format of dict(fmt)",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhalff/c5tojson.git"
+  },
+  "keywords": ["c5", "parser", "json", "dict", "dictd"],
+  "author": "Rob Halff <rob.halff@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rhalff/c5tojson/issues"
+  },
+  "homepage": "https://github.com/rhalff/c5tojson#readme"
+}
